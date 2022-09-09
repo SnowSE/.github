@@ -1,3 +1,3 @@
 # Snow College Software Engineering
 
-[Public APIs](../publicApis.md)
+[Public APIs](../main/publicApis.md)
