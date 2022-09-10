@@ -2,13 +2,13 @@
 
 > The APIs below are accessible for use in assignments or personal projects where you need to interact with a 3rd party API.
 
-## Index
+# Index
 - [API List](#api-list)
 - [Useful Links](#useful-links)
 
 <br>
 
-## API List
+# API List
 | HTTPS? | Key Required? | API | Description |
 |:---:|:---:|:---|:--|
 | ✅ | ✅ | [AI Image Generation](https://generated.photos/api) | High-quality AI-generated headshot photos. |
