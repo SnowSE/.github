@@ -33,7 +33,7 @@
 
 <br>
 
-## Useful Links
+# Useful Links
 | Site | Description |
 |:-------------|:------------|
 | [API List](https://apilist.fun) | Massive database of publicly available APIs. |
