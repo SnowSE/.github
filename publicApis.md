@@ -30,6 +30,7 @@
 | ✅ | ✅ | [The Movie DB](https://www.themoviedb.org/documentation/api) | Database of film data. (e.g., release date, actors, reviews) |
 | ✅ | ✅ | [Twilio Look-up API](https://www.twilio.com/docs/lookup/api) | Basic information of phone numbers. |
 | ✅ | ✅ | [Walmart](https://developer.walmart.com) | Manage company data as a seller or supplier. <br> *\*Only available as a company, and after an application review.* |
+| ✅ | ❌ | [Lorem Ipsum](https://loripsum.net/) | Generate random placeholder text|
 
 <br>
 
