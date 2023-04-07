@@ -11,6 +11,7 @@
 # API List
 | HTTPS? | Key Required? | API | Description |
 |:---:|:---:|:---|:--|
+| ✅ | ❌ | [Star Trek API](https://stapi.co/api-overview) | StarTrek API |
 | ✅ | ✅ | [AI Image Generation](https://generated.photos/api) | High-quality AI-generated headshot photos. |
 | ✅ | ❌ | [Chuck Norris Joke API](https://www.icndb.com/api) | Database of Chuck Norris jokes. |
 | ✅ | ✅ | [Congress](https://api.congress.gov/) | Database of public US Congress data. |
