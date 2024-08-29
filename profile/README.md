@@ -1,3 +1,4 @@
 # Snow College Software Engineering
 
-[Public APIs](../publicApis.md)
+[Public APIs (our list)](../publicApis.md)
+[Free Public APIs (website)](https://www.freepublicapis.com/)
