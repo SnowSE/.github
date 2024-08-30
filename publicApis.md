@@ -11,7 +11,7 @@
 # API List
 | HTTPS? | Key Required? | API | Description |
 |:---:|:---:|:---|:--|
-|✅ | ❌|[CataaS](https://cataas.com/)|Cat as a Service|
+|✅ | ❌|[CaaS](https://cataas.com/)| Cat as a Service |
 | ✅ | ❌ | [Star Trek API](https://stapi.co/api-overview) | StarTrek API |
 | ✅ | ✅ | [AI Image Generation](https://generated.photos/api) | High-quality AI-generated headshot photos. |
 | ✅ | ❌ | [Chuck Norris Joke API](https://www.icndb.com/api) | Database of Chuck Norris jokes. |
