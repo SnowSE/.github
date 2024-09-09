@@ -11,6 +11,7 @@
 # API List
 | HTTPS? | Key Required? | API | Description |
 |:---:|:---:|:---|:--|
+|✅ | ❌|[JSON Placeholder](https://jsonplaceholder.typicode.com/guide/)| Placeholder API |
 |✅ | ❌|[CaaS](https://cataas.com/)| Cat as a Service |
 | ✅ | ❌ | [Star Trek API](https://stapi.co/api-overview) | StarTrek API |
 | ✅ | ✅ | [AI Image Generation](https://generated.photos/api) | High-quality AI-generated headshot photos. |
